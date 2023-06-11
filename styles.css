@@ -1,16 +1,18 @@
 /* styles.css */
 
 body {
+  background-color: #333;
+  color: aliceblue;
   font-family: Arial, sans-serif;
   margin: 20px;
 }
 
 h1 {
-  color: #333;
+  color:aliceblue;
 }
 
 p {
-  color: #666;
+  color:aliceblue;
   line-height: 1.5;
 }
 
@@ -27,7 +29,7 @@ ul {
 
 a {
   text-decoration: none;
-  color: #333;
+  color:aliceblue;
 }
 
 a:hover {
