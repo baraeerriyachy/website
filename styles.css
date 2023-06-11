@@ -1,17 +1,18 @@
 /* styles.css */
 
 body {
-  color: #333;
+  background-color: #333;
+  color: aliceblue;
   font-family: Arial, sans-serif;
   margin: 20px;
 }
 
 h1 {
-  color: #fff;
+  color:aliceblue;
 }
 
 p {
-  color: #f0f;
+  color:aliceblue;
   line-height: 1.5;
 }
 
@@ -28,10 +29,9 @@ ul {
 
 a {
   text-decoration: none;
-  color: #f5f;
+  color:aliceblue;
 }
 
 a:hover {
   text-decoration: underline;
 }
-
